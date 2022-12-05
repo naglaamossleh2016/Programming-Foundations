@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naglaamossleh2016
 - 👀 I’m interested in learning a programming  languages
-- 🌱 I’m currently learning Programming Foundations: Fundamentals at linked as i am in internship at albunyan almarsus
+- 🌱 I’m currently learning Programming Foundations: Fundamentals course at linkedin as i am in internship at albunyan almarsus
 - 💞️ I’m looking to collaborate on large projects as a full stack developer
 - 📫 How to reach me email me at naglaa.mossleh@gmail.com
 
